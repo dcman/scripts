@@ -43,14 +43,18 @@
 
 1. Save https://github.com/dcman/scripts/blob/master/fake_push_radarr.sh as ~/bin/fake_push_radarr.sh
 
-2. Run command: chmod +x ~/bin/fake_push_radarr.sh
+2. Run command: chmod +x ~/bin/fake_push_radarr.sh 
+
    Run command: cd ~/bin/
+ 
    Run command: ./fake_push_radarr.sh
 
 3. Save https://github.com/dcman/scripts/blob/master/fake_push_sonarr.sh as ~/bin/fake_push_sonarr.sh
 
-4. Run command: chmod +x ~/bin/fake_push_sonarr.sh
-   Run command: cd ~/bin/
+4. Run command: chmod +x ~/bin/fake_push_sonarr.sh 
+
+   Run command: cd ~/bin/ 
+   
    Run command: ./fake_push_sonarr.sh
 
 5. Send me the output from thoes. 
